@@ -1,0 +1,35 @@
+{
+    "markers": [
+      {
+        "name": "Marker 1",
+        "mainData": "Main information for Marker 1",
+        "additionalInfo": "Additional details for Marker 1"
+      },
+      {
+        "name": "Marker 2",
+        "mainData": "Main information for Marker 2",
+        "additionalInfo": "Additional details for Marker 2"
+      },
+      {
+        "name": "Marker 3",
+        "mainData": "Main information for Marker 3",
+        "additionalInfo": "Additional details for Marker 3"
+      },
+      {
+        "name": "Marker 4",
+        "mainData": "Main information for Marker 4",
+        "additionalInfo": "Additional details for Marker 4"
+      },
+      {
+        "name": "Marker 5",
+        "mainData": "Main information for Marker 5",
+        "additionalInfo": "Additional details for Marker 5"
+      },
+      {
+        "name": "Marker 6",
+        "mainData": "Main information for Marker 6",
+        "additionalInfo": "Additional details for Marker 6"
+      }
+    ]
+  }
+  
