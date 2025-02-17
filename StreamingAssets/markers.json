@@ -5,11 +5,11 @@
         "mainData": "Main information for Marker 1",
         "additionalInfo": "Additional details for Marker 1"
       },
-        {
-            "name": "Marker 2",
-            "mainData": "Studying the asteroid Psyche could reveal clues about the origins of Earth and our solar system, as it may be a remnant of an early rocky planet. Its unusual features might even surprise scientists and reshape our understanding of how solar system objects form.",
-            "additionalInfo": "Additional details for Marker 2"
-        },
+      {
+        "name": "Marker 2",
+        "mainData": "Studying the asteroid Psyche could reveal clues about the origins of Earth and our solar system, as it may be a remnant of an early rocky planet. Its unusual features might even surprise scientists and reshape our understanding of how solar system objects form.",
+        "additionalInfo": "Additional details for Marker 2"
+      },
       {
         "name": "Marker 3",
         "mainData": "Main information for Marker 3",
