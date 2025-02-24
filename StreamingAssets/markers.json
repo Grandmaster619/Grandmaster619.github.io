@@ -1,35 +1,45 @@
 {
-    "markers": [
-      {
-        "name": "Marker 1",
-        "mainData": "Main information for Marker 1",
-        "additionalInfo": "Additional details for Marker 1"
-      },
-        {
-            "name": "Marker 2",
-            "mainData": "Studying the asteroid Psyche could reveal clues about the origins of Earth and our solar system, as it may be a remnant of an early rocky planet. Its unusual features might even surprise scientists and reshape our understanding of how solar system objects form.",
-            "additionalInfo": "Additional details for Marker 2"
-        },
-      {
-        "name": "Marker 3",
-        "mainData": "Main information for Marker 3",
-        "additionalInfo": "Additional details for Marker 3"
-      },
-      {
-        "name": "Marker 4",
-        "mainData": "Main information for Marker 4",
-        "additionalInfo": "Additional details for Marker 4"
-      },
-      {
-        "name": "Marker 5",
-        "mainData": "Main information for Marker 5",
-        "additionalInfo": "Additional details for Marker 5"
-      },
-      {
-        "name": "Marker 6",
-        "mainData": "Main information for Marker 6",
-        "additionalInfo": "Additional details for Marker 6"
-      }
-    ]
+  "markers": [
+    {
+      "name": "Marker 1",
+      "mainData": "Main information for Marker 1",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 2",
+      "mainData": "Studying the asteroid Psyche could reveal clues about the origins of Earth and our solar system, as it may be a remnant of an early rocky planet. Its unusual features might even surprise scientists and reshape our understanding of how solar system objects form.",
+      "additionalInfo": "Additional details for Marker 2"
+    },
+    {
+      "name": "Marker 3 Pop Up #1",
+      "mainData": "If scientists discover that Psyche is not an exposed core of an early planetary building block, it may prove to be an even rarer kind of primordial solar system object.",
+      "additionalInfo": "Additional details for Marker 3"
+    },
+    {
+      "name": "Marker 3 Pop Up #2",
+      "mainData": "Psyche has an irregular, potato-like shape. However, if Psyche were a perfect sphere, it would have a diameter of 140 miles (226 kilometers), or about the length of the State of Massachusetts (leaving out Cape Cod).",
+      "additionalInfo": "Additional details for Marker 3"
+    },
+    {
+      "name": "Marker 3 Pop Up #3",
+      "mainData": "Psyche is most likely a survivor of multiple violent hit-and-run collisions, common when the solar system was forming. Thus, Psyche may be able to tell us how Earth’s core and the cores of the other rocky, or terrestrial, planets came to be.",
+      "additionalInfo": "Additional details for Marker 3"
+    },
+    {
+      "name": "Marker 4",
+      "mainData": "Main information for Marker 4",
+      "additionalInfo": "Additional details for Marker 4"
+    },
+    {
+      "name": "Marker 5",
+      "mainData": "Main information for Marker 5",
+      "additionalInfo": "Additional details for Marker 5"
+    },
+    {
+      "name": "Marker 6",
+      "mainData": "Main information for Marker 6",
+      "additionalInfo": "Additional details for Marker 6"
+    }
+  ]
   }
   
