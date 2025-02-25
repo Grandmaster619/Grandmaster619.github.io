@@ -26,8 +26,18 @@
       "additionalInfo": "Additional details for Marker 3"
     },
     {
-      "name": "Marker 4",
-      "mainData": "Main information for Marker 4",
+      "name": "Marker 4 Pop Up #1",
+      "mainData": "The Psyche Spacecraft’s Multispectral Imager is equipped with two identical high-resolution cameras, which will be used to take the first pictures of the Psyche Asteroid. These images will be used to create a topographical map of the surface of Psyche, charting craters, hills, valleys, and other geological features that can provide insight into its history. 7 different near-infrared filters allow the imager to isolate different spectral wavelengths, enabling the imager to determine what types of minerals are on the surface. Additionally, the Multispectral Imager is used as a navigational tool for the Psyche Spacecraft. Similar to a sextant used to navigate oceans in the 18th century, the imager takes pictures of star fields and celestial bodies to determine the position and orientation of the craft.",
+      "additionalInfo": "Additional details for Marker 4"
+    },
+    {
+      "name": "Marker 4 Pop Up #2",
+      "mainData": "Psyche’s magnetometer will look for evidence of an ancient magnetic field at the asteroid Psyche. A residual magnetic field would be strong evidence the asteroid formed from the core of a planetary body.",
+      "additionalInfo": "Additional details for Marker 4"
+    },
+    {
+      "name": "Marker 4 Pop Up #3",
+      "mainData": "The Psyche science team will harness the telecommunications system, used to send commands to and receive data from the spacecraft, to conduct gravity science also. By analyzing the radio waves the spacecraft communicates with, scientists can measure how the asteroid Psyche affects the spacecraft’s orbit. From that information, scientists can determine the asteroid’s rotation, mass, and gravity field, gaining additional insights into the composition and structure of the asteroid’s interior.",
       "additionalInfo": "Additional details for Marker 4"
     },
     {
