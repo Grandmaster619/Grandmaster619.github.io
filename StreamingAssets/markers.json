@@ -1,8 +1,43 @@
 {
   "markers": [
     {
-      "name": "Marker 1",
-      "mainData": "Main information for Marker 1",
+      "name": "Marker 1 S1",
+      "mainData": "September 2015 – NASA selected Mission Psyche for a concept study as part of the Discovery Program with Principal Investigator Lindy Elkins-Tanton developing a detailed proposal. After submitting a 1000-page concept study and site visit review, NASA announced the mission selection for flight.",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S2",
+      "mainData": "January 2017 - The mission's science and engineering teams designed the spacecraft and its instruments to analyze the asteroid, completing the Preliminary Design Review in March 2019. In May 2019, they received official approval to move to the phase.",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S3",
+      "mainData": "May 2019 – The science and engineering team begins building the instruments for the Psyche mission.  In May 2020, the teams undergo Project and Flight System Critical Design Review, and the body of the spacecraft is completed. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S4",
+      "mainData": "January 2021 – The spacecraft undergoes testing and is sent to the launch site. The team conducts the Operations Readiness Review to ensure the system, procedures, and all supporting software and personnel are ready and fully operational. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S5",
+      "mainData": "October 2023 – The Psyche spacecraft is launched from NASA’S Kennedy Space Center in Florida on October 12, 2023, at 10:16 a.m. EDT on a SpaceX Falcon Heavy rocket. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S6",
+      "mainData": "May 2026 – The spacecraft is expected to fly between about 1,900 to 2,700 miles (3,000 to 4,400 kilometers) above Mars. The spacecraft will be using the planet’s gravity as a sling shout to increase velocity. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S7",
+      "mainData": "July 2029 – If all goes as planned, the asteroid Psyche’s gravity will capture the spacecraft after a journey of about 2.2 billion miles (3.6 billion kilometers). Over the next 20 days, the spacecraft will get into position to start studying the Psyche asteroid. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S8",
+      "mainData": "August 2029 – November 2031 – The mission has begun. The spacecraft conducts its prime mission, gathering science data while orbiting the asteroid. ",
       "additionalInfo": "Additional details for Marker 1"
     },
     {
