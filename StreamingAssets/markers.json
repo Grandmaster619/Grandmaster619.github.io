@@ -77,7 +77,7 @@
     },
     {
       "name": "Marker 4 Pop Up #1",
-      "mainData": "The Multispectral Imager will be used to take pictures of the Psyche asteroid, as well as determine what types of metals are on the surface. Two twin high-resolution cameras are used to photograph craters, hills, and other geological features, creating a topographical map of the asteroid and providing insight into its history. Additionally, 7 different near-infrared filters will be used to isolate mineral light wavelengths. These wavelengths can then be compared with known minerals to determine what metals are on Psyche’s surface.",
+      "mainData": "The Multispectral Imager will use two twin high-resolution cameras to photograph and map the asteroid. Additionally, 7 different near-infrared filters will be used to isolate mineral light wavelengths, which will be compared with known minerals to determine what metals are on Psyche’s surface.",
       "additionalInfo": "Additional details for Marker 4"
     },
     {
@@ -87,17 +87,17 @@
     },
     {
       "name": "Marker 4 Pop Up #3",
-      "mainData": "The Psyche science team will harness the telecommunications system, used to send commands to and receive data from the spacecraft, to conduct gravity science also. By analyzing the radio waves the spacecraft communicates with, scientists can measure how the asteroid Psyche affects the spacecraft’s orbit. From that information, scientists can determine the asteroid’s rotation, mass, and gravity field, gaining additional insights into the composition and structure of the asteroid’s interior.",
+      "mainData": "The Psyche science team will harness the telecommunications system, used to send commands and receive data from the spacecraft, to also conduct gravity science. By analyzing the radio waves the spacecraft communicates with, scientists can measure how the asteroid affects the spacecraft’s orbit. From that information, scientists can determine the asteroid’s rotation, mass, and gravity field, gaining additional insights into the composition and structure of the asteroid’s interior.",
       "additionalInfo": "Additional details for Marker 4"
     },
     {
       "name": "Marker 4 Pop Up #4",
-      "mainData": "Psyche’s Gamma-Ray and Neutron Spectrometer will help scientists determine the chemical elements that make up the asteroid’s surface. As cosmic rays and high energy particles bombard the Psyche Asteroid, the elements on the surface absorb the energy. In response, they emit neutrons and gamma rays of varying energy levels, which the spectrometer can detect. Scientists can then match these energy levels to properties of known elements to determine what Psyche is made of.",
+      "mainData": "Psyche’s Gamma-Ray and Neutron Spectrometer will help scientists determine what elements make up the asteroid by analyzing the amount of energy being released by elements on the surface. Scientists match these energy levels to known elements to determine what Psyche is made of.",
       "additionalInfo": "Additional details for Marker 4"
     },
     {
       "name": "Marker 4 Pop Up #5",
-      "mainData": "The Deep Space Optical Communication (DSOC) system will be used to test a new method of data transmission from within deep space. This new way of communication will transmit more data within each pass to Earth compared to radio communications, allowing more data to be received in the same amount of time. The Psyche mission will be the first test of a high-bandwidth communications system at distances far exceeding the moon, and will hopefully pave the way to sending videos to astronauts on Mars.",
+      "mainData": "The Deep Space Optical Communication (DSOC) system will be used to test a new method of data transmission from within deep space, allowing more data to be transmitted compared to radio waves. Psyche will be the first test of a high-bandwidth communications system at distances far exceeding the moon.",
       "additionalInfo": "Additional details for Marker 4"
     },
     {
