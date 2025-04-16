@@ -77,28 +77,28 @@
     },
     {
       "name": "Marker 4 Pop Up #1",
-      "mainData": "The Multispectral Imager will be used to photograph and map the asteroid. It will also use 7 different near-infrared filters to isolate mineral light wavelengths, determining what metals are on the surface.",
-      "additionalInfo": "Additional details for Marker 4"
+      "mainData": "Multispectral Imager",
+      "additionalInfo": "The Multispectral Imager will be used to photograph and map the asteroid. It will also use 7 different near-infrared filters to isolate mineral light wavelengths, determining what metals are on the surface."
     },
     {
       "name": "Marker 4 Pop Up #2",
-      "mainData": "Psyche’s magnetometer will look for evidence of an ancient magnetic field at the asteroid Psyche. A residual magnetic field would be strong evidence the asteroid formed from the core of a planetary body.",
-      "additionalInfo": "Additional details for Marker 4"
+      "mainData": "Magnetometer",
+      "additionalInfo": "Psyche’s magnetometer will look for evidence of an ancient magnetic field at the asteroid Psyche. A residual magnetic field would be strong evidence the asteroid formed from the core of a planetary body."
     },
     {
       "name": "Marker 4 Pop Up #3",
-      "mainData": "The Telecommunications system will be used to send commands to and receive data from Psyche. Additionally, by analyzing how the asteroid affects sent radio waves, we can determine the rotation, mass, and gravity field of the asteroid. ",
-      "additionalInfo": "Additional details for Marker 4"
+      "mainData": "Radio Science ",
+      "additionalInfo": "The Telecommunications system will be used to send data to and from Psyche. Additionally, by analyzing how the asteroid affects radio waves, we can determine the rotation, mass, and gravity field of the asteroid."
     },
     {
       "name": "Marker 4 Pop Up #4",
-      "mainData": "Psyche’s Gamma-Ray and Neutron Spectrometer will help scientists determine what chemical elements make up the asteroid by analyzing the amount of energy being released from elements on the surface.",
-      "additionalInfo": "Additional details for Marker 4"
+      "mainData": "Spectrometer",
+      "additionalInfo": "Psyche’s Gamma-Ray and Neutron Spectrometer will help scientists determine what chemical elements make up the asteroid by analyzing the amount of energy being released from elements on the surface."
     },
     {
       "name": "Marker 4 Pop Up #5",
-      "mainData": "The Deep Space Optical Communication (DSOC) system will be used to test a new method of data transmission from within deep space. Psyche will be the first test of a high-bandwidth communication system at distances far exceeding the moon.",
-      "additionalInfo": "Additional details for Marker 4"
+      "mainData": "DSOC",
+      "additionalInfo": "The Deep Space Optical Communication (DSOC) system will be used to test a new, more efficient method of data transmission from within deep space, possibly making deep-space radio communications obsolete."
     },
     {
       "name": "Marker 5 Orbit 1",
