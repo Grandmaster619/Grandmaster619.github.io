@@ -243,27 +243,27 @@
     {
       "name": "Game Tutorial 1",
       "mainData": "How To Play",
-      "additionalInfo": "Pull back on the Satellite and release it to launch in the direction pointed. The further back the Satellite is released the more velocity it has when launched."
+      "additionalInfo": "Tap and drag the Satellite backwards, then let go to launch it. The more you pull it back, the faster it will go when you release."
     },
     {
       "name": "Game Tutorial 2",
       "mainData": "How To Play",
-      "additionalInfo": "Thrusters can be activated using the buttons on the bottom of the screen. The left and right buttons will rotate the Satellite while the up and down buttons will propel the Satellite forwards and backwards in the direction it is facing."
+      "additionalInfo": "Thrusters can be activated using the buttons on the bottom of the screen. Left and right buttons turn it, and up and down buttons move it forward or backward."
     },
     {
       "name": "Game Tutorial 3",
       "mainData": "How To Play",
-      "additionalInfo": "Using thrusters will deplete your fuel reserves! Once the Satellite runs out of fuel you can no longer use thrusters to control it. Fuel amount is displayed on the left side of the screen."
+      "additionalInfo": "Thrusters use fuel! When the fuel runs out, you can't use the thrusters anymore. You can see how much fuel is left on the left side of the screen."
     },
     {
       "name": "Game Tutorial 4",
       "mainData": "How To Play",
-      "additionalInfo": "Your goal is to reach the green flag! Once the Satellite touches the green flag the level is completed and the next level is unlocked."
+      "additionalInfo": "Try to reach the green flag! When your Satellite touches it, the level is completed and the next one is unlocked."
     },
     {
       "name": "Game Tutorial 5",
       "mainData": "How To Play",
-      "additionalInfo": "Other objects in space may help or impede your goal in reaching the green flag! Asteroids and planets have gravity wells that will pull on the Satellite. You can use gravity to propel the Satellite but be careful not to crash!"
+      "additionalInfo": "Some objects in space, like planets and asteroids, can help or slow you down. Their gravity pulls the Satellite, which you can use to move faster — but don’t crash into them!"
     }
   ]
   }
