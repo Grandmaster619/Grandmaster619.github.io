@@ -113,25 +113,25 @@
     {
       "name": "Marker 5 Orbit 1",
       "mainData": "Orbit A",
-      "additionalInfo": "Orbit A of the Psyche mission will last 56 days (August–October 2029), with the spacecraft circling the asteroid every 32.6 hours at an altitude of about 441 miles (709 km). During this phase, the Multispectral Imager will focus on high-resolution imaging and mapping."
+      "additionalInfo": "Orbit A of the Psyche mission will last 56 days (August–October 2029), with the spacecraft circling the asteroid every 32.8 hours at an altitude of about 441 miles (709 km). During this phase, the Multispectral Imager will focus on high-resolution imaging and mapping."
     },
     {
       "name": "Marker 5 Orbit 2",
       "mainData": "Orbit B1",
-      "additionalInfo": "Orbit B1 of the Psyche mission will span 92 days (late October 2029–late January 2030), with the spacecraft completing an orbit every 11.6 hours at an altitude of about 188 miles (303 km). This phase will focus on mapping Psyche’s topography and geology."
+      "additionalInfo": "Orbit B1 will commence in October 2029, lowering the spacecraft to approximately 188 miles (303 km) above Psyche's surface. With an orbital period of about 11.6 hours, this 92-day phase emphasizes detailed topographic mapping and continued magnetic field studies.​"
     },
     {
-      "name": "Marker 5 Orbit 3",
+      "name": "Marker 5 Orbit 4",
       "mainData": "Orbit C",
       "additionalInfo": "The spacecraft will orbit Psyche at an altitude of about 188 miles (303 km) for 100 days starting in May 2031, completing one orbit every 11.6 hours. With 80% of Psyche illuminated by the sun, the mission will focus on mapping the asteroid’s topography and geology."
     },
     {
-      "name": "Marker 5 Orbit 4",
+      "name": "Marker 5 Orbit 5",
       "mainData": "Orbit B2",
       "additionalInfo": "The spacecraft will orbit Psyche at an altitude of about 118 miles (190 km) for 100 days from mid-January to May 2031, completing one orbit every 7.2 hours. With 90% of Psyche illuminated by the sun, the mission will focus on topography, high-priority magnetic field and gravity."
     },
     {
-      "name": "Marker 5 Orbit 5",
+      "name": "Marker 5 Orbit 3",
       "mainData": "Orbit D",
       "additionalInfo": "The spacecraft will orbit Psyche at an altitude of about 47 miles (75 km) for 100 days starting in May 2030, completing one orbit every 3.6 hours. With 55% of Psyche illuminated by the sun, the mission will focus on measuring the asteroid’s composition, gravity field, and magnetic field."
     },
