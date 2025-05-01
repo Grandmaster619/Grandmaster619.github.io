@@ -274,6 +274,11 @@
       "name": "Game Tutorial 5",
       "mainData": "How To Play",
       "additionalInfo": "Some objects in space, like planets and asteroids, can help or slow you down. Their gravity pulls the Satellite, which you can use to move faster — but don’t crash into them!"
+    },
+    {
+      "name": "Game Completed",
+      "mainData": "Congratulations!\nYou have beaten every level!",
+      "additionInfo": "---"
     }
   ]
   }
