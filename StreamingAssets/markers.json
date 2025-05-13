@@ -83,7 +83,7 @@
     {
       "name": "Marker 4 Pop Up #0",
       "mainData": "Instructions",
-      "additionalInfo": "Want to learn more about the Psyche's Spacescraft? Rotate the craft and tap all 5 nodes to unlock more photos, videos, and facts about the Psyche Spacecraft!"
+      "additionalInfo": "Can you find all of the nodes? Rotate the craft and tap all 6 nodes to see photos, videos, and facts about the Psyche Spacecraft and its tools!"
     },
     {
       "name": "Marker 4 Pop Up #1",
@@ -109,6 +109,11 @@
       "name": "Marker 4 Pop Up #5",
       "mainData": "DSOC",
       "additionalInfo": "The Deep Space Optical Communication (DSOC) system will be used to test a new, more efficient method of data transmission from within deep space, possibly making deep-space radio communications obsolete."
+    },
+    {
+      "name": "Marker 4 Pop Up #6",
+      "mainData": "Hall Ion Thrusters",
+      "additionalInfo": "Psyche's Hall Thrusters are used to propel the spacecraft forward. The thrusters turn xenon gas into xenon ions, which are then forced out of the thruster to propel the spacecraft forward, creating that blue glow."
     },
     {
       "name": "Marker 5 Orbit 1",
